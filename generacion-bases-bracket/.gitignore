@@ -1,0 +1,8 @@
+*.csv
+resultados bases/
+__pycache__/
+.ipynb_checkpoints/
+docs/_minted*/
+docs/*.aux
+docs/*.log
+docs/*.toc
